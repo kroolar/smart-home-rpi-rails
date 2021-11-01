@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  icon: MyString
+  state: 1
+  name: MyString
+  room_id: 1
+
+two:
+  icon: MyString
+  state: 1
+  name: MyString
+  room_id: 1
